@@ -1,0 +1,46 @@
+# Built application files
+*.apk
+*.ap_
+*.aab
+
+# Files for the ART/Dalvik VM
+*.dex
+
+# Java class files
+*.class
+
+# Generated files
+bin/
+gen/
+out/
+release/
+
+# Gradle files
+.gradle/
+build/
+gradle/
+gradlew
+gradlew.bat
+local.properties
+*.iml
+*.hprof
+
+# Android Studio Navigation editor
+.navigation/
+
+# Android Studio captures folder
+captures/
+
+# Keystore files (签名文件，千万别传)
+*.jks
+*.keystore
+
+# Google Services (如果有)
+google-services.json
+
+# IntelliJ IDEA / Android Studio project files
+.idea/
+*.iws
+*.ipr
+*.swp
+.DS_Store
